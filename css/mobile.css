@@ -1,0 +1,57 @@
+
+@media (min-width: 320px){
+	header.masthead h1 {
+	    font-size: 2rem;
+	   /* line-height: 1.8;  */
+
+	}
+	.bg-light {
+	    width: 100%;
+	}
+	/* ul.index{
+		text-align: center;
+	} */
+}
+
+
+
+@media (min-width: 768px) {
+  .showcase .showcase-text {
+    padding: 7rem !important;
+  }
+
+  .showcase-img{
+  	    height: 25rem;
+  }
+
+  header.masthead {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+  }
+  header.masthead h1 {
+    font-size: 3rem;
+  }
+  
+}
+
+
+
+@media (min-width: 920px){
+	header.masthead h1 {
+	    font-size: 2rem;
+	    line-height: 1.8;
+
+	}
+
+
+	.bg-light {
+	        width: fit-content;
+	}
+
+	  .showcase .showcase-text {
+    padding: 7rem;
+
+  }
+}
+
+

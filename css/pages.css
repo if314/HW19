@@ -1,0 +1,137 @@
+
+.parkme{
+    background-color: #233053;
+}
+
+.img1{
+       position: relative;
+    background-image: url('../img/bg-showcase-2.jpg');
+     background-size: cover;
+ 
+}
+.img2{
+       position: relative;
+    background-image: url('../img/bg-showcase-1.jpg');
+     background-size: cover;
+ 
+}
+.img3{
+       position: relative;
+    background-image: url('../img/bg-showcase-3.jpg');
+     background-size: cover;
+ 
+}
+
+.select{
+        opacity: 50%;
+}
+
+blockquote{
+    color: #999;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    opacity: 50%;
+}
+
+
+
+header.masthead {
+    position: relative;
+    background-color: #fff;
+   /* background: url("#") no-repeat center center;   */
+    background-size: cover;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.text-white {
+    color: #000!important;
+}
+
+header.masthead .overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+}
+
+.bg-light {
+    position: fixed;
+        z-index: 1;
+}
+.navbar-light .navbar-brand{
+		color: #000;
+}
+
+b {
+	font-weight: 900;
+}
+
+.navbtn{
+	font-weight: 500;
+	color: #838B8B!important;
+}
+
+
+
+.showcase-text{
+	background: #f8f8f8;
+    padding: 7rem 1rem !important;
+}
+.no-gutters {
+    background: #f8f8f8;
+    color:#182229;
+}
+
+.navbar-brand:hover {
+    font-weight: 700;
+    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
+}
+
+.hover:hover {
+    background: #182229 ;
+    color:#fff !important;
+}
+
+.space{
+    margin-top: 130px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+.title{
+    color: #999;
+    font-style: italic;
+    padding: 20px;
+    -moz-text-decoration-line: underline;
+    text-decoration: underline;
+}
+
+section{
+    padding-bottom: 4em;
+}
+
+
+.fit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.fit-100{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+li:first-child {
+    list-style-type: none;
+}
+
+
