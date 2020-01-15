@@ -130,6 +130,15 @@ section{
     width: 100%;
 }
 
+.prototype{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top:2rem;
+    margin-bottom:2rem;
+}
+
 ul.oneoff li:first-child {
     list-style-type: none;
 }
