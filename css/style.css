@@ -1,3 +1,7 @@
+body{
+    color:#666;
+}
+
 
 .parkme{
     background-color: #233053;
@@ -104,8 +108,12 @@ a:hover{
     margin-top: 3rem;
 }
 
+p{
+    color:#999;
+}
 
-
-
+.tit{
+   
+}
 
 

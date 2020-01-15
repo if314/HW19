@@ -1,7 +1,8 @@
 
-.parkme{
-    background-color: #233053;
+body{
+    color:#666;
 }
+
 
 .img1{
        position: relative;
@@ -32,7 +33,6 @@ blockquote{
     letter-spacing: 0.12em;
     opacity: 50%;
 }
-
 
 
 header.masthead {
@@ -101,15 +101,18 @@ b {
 
 
 .title{
-    color: #999;
-    font-style: italic;
-    padding: 20px;
-    -moz-text-decoration-line: underline;
-    text-decoration: underline;
+    font-style: normal;
+    font-weight: 700;
+    padding: 0;
+    margin: 2rem -1rem;
+    font-size: 3.1rem;
+    line-height: 1.2;
+    color: rgba(0, 0, 0, 0.9);
 }
 
 section{
     padding-bottom: 4em;
+    margin-bottom: 7rem;
 }
 
 
