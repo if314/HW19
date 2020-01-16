@@ -88,10 +88,7 @@ b {
     color:#182229;
 }
 
-.navbar-brand:hover {
-    font-weight: 700;
-    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
-}
+
 
 
 
@@ -145,19 +142,6 @@ section{
 ul.oneoff li:first-child {
     list-style-type: none;
 }
-
-.hover:hover {
-    font-weight: 700;
-    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
-}
-
-a{
-    text-decoration:none;
-}
-a:hover{
-    text-decoration:none;
-}
-
 
 
 .mt50{

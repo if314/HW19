@@ -1,0 +1,20 @@
+.hover:hover {
+   /* font-weight: 700;*/
+    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
+}
+
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:none;
+}
+
+.navbar-brand:hover {
+    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
+}
+
+blockquote{
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+}
