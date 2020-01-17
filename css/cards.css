@@ -20,3 +20,8 @@ blockquote{
     text-transform: uppercase;
     letter-spacing: 0.12em;
 }
+
+h1,
+h2{
+    color: #000;
+}
