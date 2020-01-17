@@ -7,7 +7,6 @@ body{
     line-height: 1.5;
 }
 
-
 h1,
 h2,
 h3,
@@ -118,6 +117,17 @@ section{
     padding-bottom: 3em;
     margin-bottom: 7rem;
 }
+
+.showcase{
+        padding-bottom: 0em;
+    margin-bottom: 0rem;
+}
+
+/*
+section:last-child {
+    padding-bottom: 0em;
+    margin-bottom: 0rem;
+}*/
 
 .fit{
     display: block;
