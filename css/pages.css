@@ -150,6 +150,8 @@ section:last-child {
     width: 20%;
     margin-top:2rem;
     margin-bottom:2rem;
+    border: 10px solid #999;
+    border-radius: 10px;
 }
 
 ul.oneoff li:first-child {
