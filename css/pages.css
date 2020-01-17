@@ -1,8 +1,18 @@
+
+
+
 body{
-    color:#A6A6A6  ;
+        color: rgba(153, 153, 153, 0.85);
+    font-style: normal;
+    line-height: 1.5;
 }
+
+
 h1,
-h2{
+h2,
+h3,
+h4,
+h5{
     color: #000;
 }
 
