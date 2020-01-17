@@ -78,8 +78,6 @@ b {
 	color: #838B8B!important;
 }
 
-
-
 .showcase-text{
 	background: #f8f8f8;
     padding: 7rem 1rem !important;
@@ -89,17 +87,12 @@ b {
     color:#182229;
 }
 
-
-
-
-
 .space{
     margin-top: 130px;
     margin-bottom: 50px;
     margin-left: 5px;
     margin-right: 5px;
 }
-
 
 .title{
     font-style: normal;
@@ -115,7 +108,6 @@ section{
     padding-bottom: 3em;
     margin-bottom: 7rem;
 }
-
 
 .fit{
     display: block;
@@ -151,6 +143,6 @@ ul.oneoff li:first-child {
 
 
 .team{
-    width:50%;
+    width:70%;
     border-radius: 10px;
 }
