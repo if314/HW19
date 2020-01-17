@@ -33,9 +33,9 @@ var ctxP = document.getElementById("pieChart").getContext('2d');
 var myPieChart = new Chart(ctxP, {
 type: 'pie',
 data: {
-labels: ["Not Important", "Very Important", "Important", "Not Very Important"],
+labels: ["Not Interested", "Not Very Interested", "Very Interested", "Interested"],
 datasets: [{
-data: [6, 54, 36, 3],
+data: [6, 3, 54, 36],
 backgroundColor: ["#F7464A", "#46BFBD", "#FDB45C", "#949FB1", "#4D5360"],
 hoverBackgroundColor: ["#FF5A5E", "#5AD3D1", "#FFC870", "#A8B3C5", "#616774"]
 }]
