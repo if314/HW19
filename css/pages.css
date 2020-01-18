@@ -147,10 +147,12 @@ section:last-child {
     width: 20%;
     margin-top:2rem;
     margin-bottom:2rem;
-    border: 15px solid #F0F0F0;
+    border: 15px solid #F2F2F2	;
     border-radius: 25px;
     box-shadow: 2px 2px 15px #999;
 }
+
+
 
 ul.oneoff li:first-child {
     list-style-type: none;
