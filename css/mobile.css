@@ -16,6 +16,9 @@
     width: 80%;
 
 }
+.team {
+    display: none;
+    }
 	
 
 }
@@ -53,12 +56,17 @@ img {
 
 
 @media (min-width: 920px){
+
+
 	header.masthead h1 {
 	    font-size: 2rem;
 	    line-height: 1.8;
 
 	}
 
+.team {
+    display: inline;
+    }
 
 	.bg-light {
 	        width: fit-content;
@@ -69,15 +77,7 @@ img {
 
   }
   .prototype {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 20%;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    border: 15px solid #F2F2F2;
-    border-radius: 25px;
-    box-shadow: 2px 2px 15px #999;
 }
 img {
 }
