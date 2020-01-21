@@ -17,7 +17,7 @@ h5{
 
 .hover:hover {
    /* font-weight: 700;*/
-    text-shadow: 5px 5px 30px rgba(11, 14, 212, 1);
+    text-shadow: 5px 5px 30px rgba(11, 14, 212, 0.8);
 }
 
 a{
