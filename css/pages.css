@@ -182,3 +182,6 @@ ul.oneoff li:first-child {
 .mb30{
     margin-bottom: 30px;
 }
+.quote{
+    font-style: italic;
+}
