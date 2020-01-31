@@ -185,3 +185,20 @@ ul.oneoff li:first-child {
 .quote{
     font-style: italic;
 }
+
+.gray{
+    background-color: #F6F8F9;
+}
+.chark{
+    background-color: #fff;
+    border:3px solid #F6F8F9;
+}
+.energynav{
+   padding: 4rem;
+   
+}
+
+ul.ennav {
+    list-style-type: none;
+}
+
