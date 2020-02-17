@@ -19,7 +19,6 @@ h4{
        position: relative;
     background-image: url('../img/bg-showcase-2.jpg');
      background-size: cover;
- 
 }
 .img2{
        position: relative;
@@ -71,20 +70,20 @@ header.masthead .overlay {
         z-index: 1;
 }
 .navbar-light .navbar-brand{
-		color: #000;
+        color: #000;
 }
 
 b {
-	font-weight: 900;
+    font-weight: 900;
 }
 
 .navbtn{
-	font-weight: 500;
-	color: #838B8B!important;
+    font-weight: 500;
+    color: #838B8B!important;
 }
 
 .showcase-text{
-	background: #f8f8f8;
+    background: #f8f8f8;
     padding: 7rem 1rem !important;
 }
 .no-gutters {
@@ -150,7 +149,7 @@ section:last-child {
     width: 20%;
     margin-top:2rem;
     margin-bottom:2rem;
-    border: 15px solid #F2F2F2	;
+    border: 15px solid #F2F2F2  ;
     border-radius: 25px;
     box-shadow: 2px 2px 15px #999;
 }
