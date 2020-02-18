@@ -204,3 +204,9 @@ ul.ennav {
 .mb4b{
     margin-bottom: 6rem;
 }
+
+.about_part .about_text .experiance {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 55px;
+}
