@@ -95,4 +95,21 @@ b {
 }
 */
 
+.card2 {
+    position: relative;
+    background: white;
+}
 
+.card2:hover:after {
+    top: 10px;
+    left: 10px;
+}
+
+.card2:hover {
+    background-image: url('../img/pattern.svg');
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 30px;
+    background-repeat: repeat;
+ 
+}
