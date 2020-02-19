@@ -210,3 +210,6 @@ ul.ennav {
     align-items: flex-end;
     margin-top: 55px;
 }
+.text-white{
+    color:#fff !important;
+}
