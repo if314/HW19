@@ -239,3 +239,9 @@ ul.ennav {
     margin-left: 5px;
     margin-right: 5px;
 }
+.value{
+    text-rendering: optimizeLegibility;
+    font-style: italic;
+    letter-spacing: 0.5rem;
+
+}
