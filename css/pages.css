@@ -227,3 +227,15 @@ ul.ennav {
 .pro{
     width: 100%;
 }
+.defind{
+    font-size: 0.8rem;
+    padding-left:10px;
+    padding-right: 10px;
+    opacity:80%;
+}
+.space70 {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
