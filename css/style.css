@@ -5,13 +5,13 @@
 
 .img1{
        position: relative;
-    background-image: url('../img/bg-showcase-2.jpg');
+    background-image: url('../img/bg-showcase-1.jpg');
      background-size: cover;
  
 }
 .img2{
        position: relative;
-    background-image: url('../img/bg-showcase-1.jpg');
+    background-image: url('../img/bg-showcase-2.jpg');
      background-size: cover;
  
 }
