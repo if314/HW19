@@ -15,22 +15,31 @@ h4{
     color: #666;
 }
 
+
 .img1{
-       position: relative;
-    background-image: url('../img/bg-showcase-2.jpg');
-     background-size: cover;
+    position: relative;
+ background-image: url('../img/bg-showcase-2.jpg');
+  background-size: cover;
+
 }
 .img2{
-       position: relative;
-    background-image: url('../img/bg-showcase-1.jpg');
-     background-size: cover;
- 
+    position: relative;
+ background-image: url('../img/bg-showcase-1.jpg');
+  background-size: cover;
+
 }
 .img3{
-       position: relative;
-    background-image: url('../img/bg-showcase-3.jpg');
-     background-size: cover;
- 
+    position: relative;
+ background-image: url('../img/bg-showcase-3.jpg');
+  background-size: cover;
+
+}
+
+.img4{
+    position: relative;
+ background-image: url('../img/bg-showcase-4.jpg');
+  background-size: cover;
+
 }
 
 .select{
