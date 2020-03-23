@@ -42,6 +42,13 @@ h4{
 
 }
 
+.img5{
+    position: relative;
+ background-image: url('../img/bg-showcase-5.jpg');
+  background-size: cover;
+
+}
+
 .select{
         opacity: 50%;
 }
