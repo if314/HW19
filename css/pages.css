@@ -49,9 +49,6 @@ h4{
 
 }
 
-.select{
-        opacity: 50%;
-}
 
 blockquote{
     text-transform: uppercase;
@@ -274,4 +271,105 @@ ul.ennav {
         margin-bottom: 4rem;
     padding-bottom: 5rem;
     position: absolute;
+}
+.abouttext{
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+/* styke styek style  */
+
+
+.select{
+    opacity: 50%;
+}
+
+header.masthead {
+position: relative;
+background-color: #fff;
+/* background: url("#") no-repeat center center;   */
+background-size: cover;
+padding-top: 8rem;
+padding-bottom: 8rem;
+}
+
+.text-white {
+color: #000!important;
+}
+
+header.masthead .overlay {
+position: absolute;
+background-color: #fff;
+height: 100%;
+width: 100%;
+top: 0;
+left: 0;
+opacity: .3;
+}
+
+.bg-light {
+position: fixed;
+    z-index: 1;
+}
+.navbar-light .navbar-brand{
+    color: #000;
+}
+
+b {
+font-weight: 900;
+}
+
+.navbtn{
+font-weight: 500;
+color: #007bff!important;
+}
+
+
+
+.showcase-text{
+background: #f8f8f8;
+padding: 7rem 1rem !important;
+}
+.no-gutters {
+background: #f8f8f8;
+color:#182229;
+}
+
+
+.well{
+margin-top: 2.5rem;
+}
+
+.mt-20{
+margin-top: 3rem;
+}
+
+/*p{
+color:#999;
+}
+
+.tit{
+
+}
+*/
+
+.card2 {
+position: relative;
+background: white;
+}
+
+.card2:hover:after {
+top: 10px;
+left: 10px;
+}
+
+.card2:hover {
+background-image: url('../img/pattern.svg');
+background-position-x: right;
+background-position-y: bottom;
+background-size: 30px;
+background-repeat: repeat;
+
 }
