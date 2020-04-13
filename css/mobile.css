@@ -19,7 +19,35 @@
 .team {
     display: none;
     }
-	
+  
+    .title {
+      padding: 0;
+      margin: 2rem 0rem;
+      font-size: 2rem;
+  }
+  
+  .ms30px {
+    margin-left: 0px;
+    margin-right: 30px;
+}
+section {
+  padding-bottom: 3em;
+  margin-bottom: 5rem;
+}
+.container {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.img1{
+  background-color: coral;
+}
+.cebproto {
+  width: 80%;
+  margin: 30px;
+}
 
 }
 
